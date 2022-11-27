@@ -11,7 +11,7 @@ jobs:
       with:
         args: docfx.json
 
-    - uses: maxheld83/ghpages@main
+    - uses: maxheld83/ghpages@master
       name: Publish Documentation on GitHub Pages
       env:
         BUILD_DIR: _site

@@ -3,3 +3,5 @@
 - name: Source Code
   href: api/
   homepage: api/index.md
+- name: REST API
+  href: restapi/

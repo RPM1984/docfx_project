@@ -1,0 +1,126 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Calculator
+  name: Calculator
+  href: api/Calculator.html
+  commentId: N:Calculator
+  fullName: Calculator
+  nameWithType: Calculator
+- uid: Calculator.App
+  name: App
+  href: api/Calculator.App.html
+  commentId: T:Calculator.App
+  fullName: Calculator.App
+  nameWithType: App
+- uid: Calculator.App.Add(System.Int32,System.Int32)
+  name: Add(Int32, Int32)
+  href: api/Calculator.App.html#Calculator_App_Add_System_Int32_System_Int32_
+  commentId: M:Calculator.App.Add(System.Int32,System.Int32)
+  fullName: Calculator.App.Add(System.Int32, System.Int32)
+  nameWithType: App.Add(Int32, Int32)
+- uid: Calculator.App.Add*
+  name: Add
+  href: api/Calculator.App.html#Calculator_App_Add_
+  commentId: Overload:Calculator.App.Add
+  isSpec: "True"
+  fullName: Calculator.App.Add
+  nameWithType: App.Add
+- uid: Calculator.App.Multiply(System.Int32,System.Int32)
+  name: Multiply(Int32, Int32)
+  href: api/Calculator.App.html#Calculator_App_Multiply_System_Int32_System_Int32_
+  commentId: M:Calculator.App.Multiply(System.Int32,System.Int32)
+  fullName: Calculator.App.Multiply(System.Int32, System.Int32)
+  nameWithType: App.Multiply(Int32, Int32)
+- uid: Calculator.App.Multiply*
+  name: Multiply
+  href: api/Calculator.App.html#Calculator_App_Multiply_
+  commentId: Overload:Calculator.App.Multiply
+  isSpec: "True"
+  fullName: Calculator.App.Multiply
+  nameWithType: App.Multiply
+- uid: Calculator.App.Subtract(System.Int32,System.Int32)
+  name: Subtract(Int32, Int32)
+  href: api/Calculator.App.html#Calculator_App_Subtract_System_Int32_System_Int32_
+  commentId: M:Calculator.App.Subtract(System.Int32,System.Int32)
+  fullName: Calculator.App.Subtract(System.Int32, System.Int32)
+  nameWithType: App.Subtract(Int32, Int32)
+- uid: Calculator.App.Subtract*
+  name: Subtract
+  href: api/Calculator.App.html#Calculator_App_Subtract_
+  commentId: Overload:Calculator.App.Subtract
+  isSpec: "True"
+  fullName: Calculator.App.Subtract
+  nameWithType: App.Subtract
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0
+  name: Swagger Petstore
+  href: restapi/petstore.html
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/addPet
+  name: addPet
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_addPet
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/createUser
+  name: createUser
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_createUser
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/createUsersWithArrayInput
+  name: createUsersWithArrayInput
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_createUsersWithArrayInput
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/createUsersWithListInput
+  name: createUsersWithListInput
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_createUsersWithListInput
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/deleteOrder
+  name: deleteOrder
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_deleteOrder
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/deletePet
+  name: deletePet
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_deletePet
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/deleteUser
+  name: deleteUser
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_deleteUser
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/findPetsByStatus
+  name: findPetsByStatus
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_findPetsByStatus
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/findPetsByTags
+  name: findPetsByTags
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_findPetsByTags
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/getInventory
+  name: getInventory
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_getInventory
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/getOrderById
+  name: getOrderById
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_getOrderById
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/getPetById
+  name: getPetById
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_getPetById
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/getUserByName
+  name: getUserByName
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_getUserByName
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/loginUser
+  name: loginUser
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_loginUser
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/logoutUser
+  name: logoutUser
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_logoutUser
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/placeOrder
+  name: placeOrder
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_placeOrder
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/tag/pet
+  name: pet
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_tag_pet
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/tag/store
+  name: store
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_tag_store
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/tag/user
+  name: user
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_tag_user
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/updatePet
+  name: updatePet
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_updatePet
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/updatePetWithForm
+  name: updatePetWithForm
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_updatePetWithForm
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/updateUser
+  name: updateUser
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_updateUser
+- uid: petstore.swagger.io/v2/Swagger Petstore/1.0.0/uploadFile
+  name: uploadFile
+  href: restapi/petstore.html#petstore_swagger_io_v2_Swagger_Petstore_1_0_0_uploadFile

@@ -1,0 +1,20 @@
+on:
+  push:
+    branches:
+      - CM-591-docfx
+
+jobs:
+  update_docs:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: nikeee/docfx-action@v1.0.0
+      name: Build Documentation
+      with:
+        args: docfx.json
+
+    - uses: maxheld83/ghpages@main
+      name: Publish Documentation on GitHub Pages
+      env:
+        BUILD_DIR: _site
+        GH_PAT: ${{ secrets.GH_PAT }}

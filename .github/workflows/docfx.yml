@@ -1,7 +1,5 @@
 on:
-  push:
-    branches:
-      - CM-591-docfx
+  push
 
 jobs:
   update_docs:

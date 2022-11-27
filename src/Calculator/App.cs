@@ -22,4 +22,13 @@ public static class App
     /// <returns>int</returns>
     public static int Subtract(int one, int two)
         => one - two;
+
+    /// <summary>
+    /// Multiplies two numbers together
+    /// </summary>
+    /// <param name="one">The first number</param>
+    /// <param name="two">The second number</param>
+    /// <returns>int</returns>
+    public static int Multiply(int one, int two)
+        => one * two;
 }
